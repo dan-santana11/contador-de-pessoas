@@ -21,7 +21,7 @@ void main() {
       _people += delta;
 
       if(_people < 0) {
-        _infoText = "Mundo invertido?!";
+        _infoText = "Primeiros clientes!";
       }
       else if(_people <=10){
         _infoText = "Pode entrar";
